@@ -2302,6 +2302,10 @@ _Let the user create & edit data_
 - [vue3-scroll-picker](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 - [vue-wheel-picker](https://github.com/vanishmax/vue-wheel-picker) - Customizable Picker with 3D wheel and all gestures supported for Vue 2.
 
+### Form State Management & Watchers
+
+- [vue-form-watchers](https://github.com/HelixForge/vue-form-watchers) - Automatic debounced watchers for reactive form fields with external update handling.
+
 ##### Generator
 
 - [FormSchema Native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
