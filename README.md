@@ -2302,6 +2302,7 @@ _Let the user create & edit data_
 - [vue3-scroll-picker](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 - [vue-wheel-picker](https://github.com/vanishmax/vue-wheel-picker) - Customizable Picker with 3D wheel and all gestures supported for Vue 2.
 
+
 ##### Generator
 
 - [FormSchema Native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
@@ -3209,6 +3210,8 @@ _LocalStorage etc._
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [hami-vuex](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+- - [vue-form-watchers](https://github.com/HelixForge/vue-form-watchers) - Automatic debounced watchers for reactive form fields with external update handling, plays well with Pinia, VueX
+
 
 ##### Redux
 
